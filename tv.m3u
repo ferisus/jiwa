@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="SPORT 3", TVRI SPORT 
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-id="TVRISportHD.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="SPORT 3", TVRI SPORT SD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="SPORT 3", TVRI SPORT HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF: -1 group-title="SPORT 3", Bein Sport HD
 http://s2.famousiptv.com:8080/serra1/serra1/13040
