@@ -381,6 +381,8 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="DUBAI SPORTS", Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="DUBAI SPORTS" tvg-logo="https://i.imgur.com/IaRaabJ.jpg",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp_haber.png" group-title="TR SPOR", TR: BEIN SPORTS HABER FHD
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/383650
 #EXTINF: -1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_sp_haber.png" group-title="TR SPOR", TR: BEIN SPORTS HABER HD
