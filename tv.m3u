@@ -5,6 +5,12 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" tvg-name="AR: VIP BEIN PREMIUM 1 FHD"  group-title="AR SPORT", AR: VIP BEIN PREMIUM 1 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133823
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 FHD" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="AR SPORT", AR: VIP BEIN PREMIUM 2 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139572
+#EXTINF: -1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 FHD" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium3.png" group-title="AR SPORT", AR: VIP BEIN PREMIUM 3 FHD
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139573
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" group-title="SPORT EPL", BeIN Sports Premium 1 SD
 http://2mtv.net:8080/mahmoudaswa/26887329/1
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="SPORT EPL", BeIN Sports Premium 2 SD
@@ -18,8 +24,13 @@ http://2mtv.net:8080/mahmoudaswa/26887329/4
 http://2mtv.net:8080/mahmoudaswa/26887329/5
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein3hd.png"  group-title="SPORT EPL", BeIN Sports 3 SD
 http://2mtv.net:8080/mahmoudaswa/26887329/6
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ud7AVaF.png" group-title="SPORT rusian", Матч!
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/matyhd.jpeg" group-title="SPORT rusian", Матч!
 https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+
+
+
+
 #EXTINF: -1 tvg-id="beinsportsnews.qa" tvg-name="AR: BEIN SPORT NEWS" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_news.jpg" group-title="AR SPORT", AR: BEIN SPORT NEWS
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/30067
 #EXTINF: -1 tvg-name="AR: BEIN SPORTS GLOBAL" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_global.jpg" group-title="AR SPORT", AR: BEIN SPORTS GLOBAL
@@ -42,12 +53,6 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133820
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133821
 #EXTINF: -1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_7.jpg" group-title="AR SPORT", AR: VIP BEIN SPORT 7 FHD
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133822
-#EXTINF: -1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_8.jpg" group-title="AR SPORT", AR: VIP BEIN PREMIUM 1 FHD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133823
-#EXTINF: -1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT", AR: VIP BEIN PREMIUM 2 FHD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139572
-#EXTINF: -1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_10.jpg" group-title="AR SPORT", AR: VIP BEIN PREMIUM 3 FHD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139573
 #EXTINF: -1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_11.jpg" group-title="AR SPORT", AR: VIP BEIN ENGLISH 1 FHD
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139574
 #EXTINF: -1 tvg-id="beinsports12.qa" tvg-name="AR: VIP BEIN ENGLISH 2 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_12.jpg" group-title="AR SPORT", AR: VIP BEIN ENGLISH 2 FHD
