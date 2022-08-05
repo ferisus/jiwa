@@ -5,11 +5,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" tvg-name="AR: VIP BEIN PREMIUM 1 FHD"  group-title="SPORT EPL", AR: VIP BEIN PREMIUM 1 FHD
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" tvg-name="BEIN PREMIUM 1 FHD"  group-title="SPORT EPL", VIP BEIN PREMIUM 1 FHD
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/133823
-#EXTINF: -1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 FHD" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="SPORT EPL", AR: VIP BEIN PREMIUM 2 FHD
+#EXTINF: -1 tvg-id="beinsports9.qa" tvg-name="BEIN PREMIUM 2 FHD" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="SPORT EPL", BEIN PREMIUM 2 FHD
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139572
-#EXTINF: -1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 FHD" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium3.png" group-title="SPORT EPL", AR: VIP BEIN PREMIUM 3 FHD
+#EXTINF: -1 tvg-id="beinsports10olympic.qa" tvg-name=" BEIN PREMIUM 3 FHD" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium3.png" group-title="SPORT EPL", BEIN PREMIUM 3 FHD
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/139573
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" group-title="SPORT EPL", BeIN Sports Premium 1 SD
 http://2mtv.net:8080/mahmoudaswa/26887329/1
